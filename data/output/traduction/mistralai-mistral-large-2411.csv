@@ -1,0 +1,159 @@
+No,Wolof,Français,Traduction,Score_Final
+2,Na nga def ?,Comment vas tu ?,Comment vas-tu ?,0.812
+3,Mangui gui fi,Je vais bien,Je suis ici.,0.475
+4,iow nak no def ?,Et toi comment va tu ?,"""Comment vas-tu ?""",0.558
+5,Mangui ci diam,Ca va,Je viens de là-bas,0.400
+6,Kay gnou lekk,Viens on mange,Je vais manger ici.,0.626
+7,Gnata att nga am ?,Quelle age as-tu ?,Où vas-tu ?,0.441
+8,Tay dama woorr,J'ai jeûné aujourd'hui,Je ne suis pas sûr.,0.361
+9,Fane nga deuk ?,Où est-ce que tu habites ?,As-tu mangé ?,0.291
+10,Nane nga toudou ?,Comment est-ce que tu t'appelle ?,Comment vas-tu ?,0.416
+11,Mangui toudou X,Je m'appelle X,"Je corrige les fautes dans votre phrase en Wolof: ""Mangi tor dou x""
+
+Traduction: ""Je vais jusqu'à x""",0.488
+12,Dama la sokhla,J'ai besoin de toi,Ma famille.,0.309
+13,Dama khiff,J'ai faim,Je ne comprends pas.,0.350
+14,Dama marr,J'ai soif,Ma femme,0.418
+15,Mangui joko si leund mi,Je me connecte sur le web,Je ne pense pas.,0.503
+16,Dama beug lou jeum si waloum xarala,J'adore la Technologie,Je ne comprends pas encore cette phrase.,0.406
+17,Dama beug ndekki,Je veux prendre un petit déjeuner,Ma tête me fait mal,0.370
+18,Dama beug Agne,Je veux prendre un déjeuner,Je ne veux pas d'haricots.,0.529
+19,Dama beug rére,Je veux prendre un dîner,Je dois partir maintenant.,0.403
+20,Damay takk jabar,Je vais me marier,Je ne veux pas discuter.,0.500
+21,Mayma khaliss,Donne moi de l'argent,Je vais bien,0.337
+22,Bane wakhtu mo joot ?,Quelle heure fait-il ?,Quand pars-tu ?,0.343
+23,Dama sonne,Je suis fatigué,"""Dama sonne"" se traduit par ""Donne-moi de l'argent"".",0.294
+24,Bu la neexee,S’il vous plaît,"""Il ne viendra pas.""",0.425
+25,Amul sólo,Je vous en prie,Reste tranquille,0.411
+26,Kay niou dem,Viens on y va,"""Kay niou dem"" se traduit par ""Reste ici"".",0.400
+27,Jéggël ma,Excusez-moi,"""Écoute-moi""",0.495
+28,Ndax dégg nga angale ?,Parlez-vous anglais ?,Comment vas-tu aujourd'hui ?,0.355
+29,Dégg nga ?,Comprenez-vous ?,Comment ça va ?,0.450
+30,Dégg naa,Je comprends,J'ai compris,0.625
+31,Dégguma,Je ne comprends pas,"Bien sûr, je suis prêt à vous aider. ""Dégguma"" se traduit par ""Compris"" en français.",0.445
+32,Nanga tudd ?,Quel est ton nom ?,Comment ça va ?,0.307
+33,Jàmm nga fanaane ?,Comment s'est passée votre soirée ?,Comment vas-tu ?,0.432
+34,Fii ba Sandaga ñaata ?,Combien ça fait d'ici à Sandaga ?,Es-tu allé au marché Sandaga ?,0.486
+35,Fan mooy seen wanaag ?,Où sont les toilettes ?,Comment allez-vous aujourd'hui ?,0.457
+36,Neexoon na,C'était bon,J'ai marché,0.356
+37,Mi ngi ci jàmm,Il/Elle va bien,Je suis en paix.,0.316
+38,Ñaata lay jar ?,Combien ça coûte ?,Où est ta maison ?,0.308
+39,Ñaata ngay jaaye bii ?,Tu vends ça combien ?,Où puis-je trouver du travail ?,0.324
+40,Seer na lool,C'est très cher,"D'accord, compris",0.388
+41,Wagniil mako,Diminue moi ça,Ma voiture est cassée.,0.390
+42,Lougnouy lekk ?,Qu'est ce qu'on mange ?,As-tu mangé ?,0.482
+43,Naka nga yendo ?,Comment s'est passée ta journée ?,Comment vas-tu ?,0.413
+44,Barki démb diaronne na sa keur,Avant-hier j'étais passé chez toi,Merci beaucoup pour votre maison.,0.407
+45,Dama nieuwone indil leu sa khaliss,J'étais venu t'apporter ton argent,Ta beauté ne ressemble à rien d'autre.,0.503
+46,Dama nékone daara dja,J'étais à l'école,Je ne comprends pas bien.,0.396
+47,Damay saakou xam-xam,Je suis à la quête de connaissance,Je ne comprends pas bien,0.372
+48,Nianal ma !,Prie pour moi !,"""Viens manger !""
+
+Traduction :
+- ""Nianal"" signifie ""manger""
+- ""ma"" signifie ""viens"" ou ""venez""",0.336
+49,Témérri Diouni,Cent milles,"""Bon appétit""
+
+Traduction :
+- Témérri : Bon
+- Diouni : appétit",0.265
+50,Damala beug,Je t'aime,"""Faire un effort""
+
+Bien sûr, si vous avez d'autres phrases à traduire, n'hésitez pas à les partager !",0.447
+51,Dama gueuméntou,J'ai sommeil,Ma famille,0.490
+52,Dama beug nelaw,Je veux dormir,Je vais bien maintenant.,0.308
+53,Fane nga dieum ni ?,Où vas-tu ?,Comment vas-tu ?,0.628
+54,Nélaww gua bou baxx ?,as tu bien dormi ?,Comment vas-tu aujourd'hui ?,0.496
+55,Testou sansement bant yi,Test des mises à jours des branches,Les tests ont déjà commencé.,0.523
+56,Yalla baxna,ça ira,Dieu interdit,0.355
+57,fane yi dara doxoul,Rien ne marche ces temps-ci,Les gens sont fatigués.,0.396
+58,Dieureudieuf,Merci,Merci,1.000
+59,Touti,un peu,"""Touti"" en wolof se traduit par ""merci"" en français.",0.313
+60,Kay,viens,D'accord,0.200
+61,Kay Agne,viens manger,"D'accord, allons-y.",0.424
+62,Damay touki,je voyage,"""Je vais voyager"" ou ""Je vais partir en voyage"".",0.740
+63,Bokk na,Je participe,J'ai compris,0.362
+64,Dama beugue diangue.,J'aime les études.,Je ne veux pas y aller.,0.307
+65,Nit ñu baree ngi ci kër gi.,Il y a beaucoup de gens dans la maison.,Les personnes travaillent à la maison.,0.405
+66,Ab paaka la yore.,Il a un couteau sur lui.,Je ne comprends pas.,0.404
+67,Dama khiff.,J'ai faim.,Je suis fatigué.,0.531
+68,Dama ame ndadjé.,J'ai un rendez-vous.,Je suis fatigué.,0.440
+69,Ndekki wouma.,Je n'ai pas pris mon petit-déjeuner.,Je comprends.,0.259
+70,Awa diangue Kate la.,Awa est un bon élève,Awa appelle Kate.,0.433
+71,Sama mak bou djiguène daye toggou agne.,Ma grande sœur prépare le repas.,"""Les femmes de ma famille sont allées à la campagne.""",0.509
+72,Beugouma carote.,Je n'aime pas les carottes.,Il a besoin d'argent.,0.488
+73,Legui mangui diangue ak Médoune.,Maintenant j'apprends avec Médoune.,J'habite avec Médoune.,0.648
+74,Sama yaye dafa beugue pomme.,Ma mère aimes les pommes.,Ma mère veut une pomme.,0.787
+75,Dama taxaw!,Je suis debout!,Je suis fatigué !,0.620
+76,Beugouma,Je n'aime pas,Je ne comprends pas,0.683
+77,Maa ngi dem,Je m’en vais,Je vais partir,0.550
+78,Ba beneen yoon inch Allah,A la prochaine si Dieu le veut,"""Cela ne se produira que si Dieu le veut.""",0.667
+79,Boroom ndékki ku ko jëkka yeewu tëddaat,Celui qui se lève avant le responsable du petit déjeuner peut aller se recoucher,Le chef du village qui parle trop gâche la réunion.,0.438
+80,Ganaar du am faru siiru,La poule ne doit pas avoir pour fiancer un chat sauvage,La famille est importante dans la vie,0.369
+81,Guy dana juri dég,Il arrive qu’un baobab ait des épines,"La traduction de ""Guy dana juri dég"" du Wolof vers le Français est :
+
+""Ce garcon court vite.""",0.378
+82,Daay fay!,Ca paye!,Bon matin !,0.378
+83,Ko yaab iow!,Tu qui on se moques là,Je suis désolé!,0.333
+84,Am ngeu melokane deh!,Ah ouais t'es comme çà toi!,Tu es très beau/belle !,0.315
+85,Dama taxaw!,Je suis debout!,Viens t'asseoir !,0.417
+86,Dama invité sama gel,J'ai invité ma petite copine,Je vais inviter mon ami.,0.546
+87,Yomb na,C’est très bon marché,Rentre,0.258
+88,Bare na,C’est trop cher,J'ai travaillé.,0.277
+89,Ba beneen yoon inch Allah,A la prochaine si Dieu le veut,"""L'année prochaine, si Dieu le veut.""",0.800
+90,Degg nga Français,Parlez-vous Français,Parle français.,0.783
+91,Deedeet jërëjëf,Non merci,La vie est courte.,0.299
+92,Amul solo,De rien,Reste tranquille,0.411
+93,Niokobok,Je vous en prie,Je suis d'accord.,0.275
+94,Li lan la,Qu’est-ce que c’est ?,"""Ici"" ou ""C'est ici"".",0.627
+95,Dema fe ñëw wakansu,Je suis ici en vacances,Je vais bien voir,0.500
+96,Dema fe ñëw ngir ligey,Je suis ici pour le travail,Tu dois rester ici pour le moment.,0.572
+97,Demay Xool rek,Je ne fais que regarder,Je vais bien,0.369
+98,Dama bëgga dem,Je voudrais aller,"""Je veux partir.""
+
+Traduction :
+- Dama : je veux
+- bëgga : partir
+- dem : aller",0.511
+99,Ndax mën naa fi luwe,Je voudrais louer,Je ne sais pas nager.,0.415
+100,Neex na torop,C’était délicieux,J'ai un mal de tête.,0.347
+101,Lo may digël ?,Qu’est-ce que vous me recommandez ?,Où vas-tu ?,0.229
+102,Du ma lek yapp,Je suis végétarien,"""Je veux dormir""",0.387
+103,Bëggu ma kaani,Sans épice (Je n’aime pas les épices),"""J'ai envie de dormir""",0.398
+104,Tang na,C’est trop chaud,"""Asseyez-vous""
+
+""Tang na"" en wolof signifie ""asseyez-vous"" en français. C'est une phrase impérative utilisée pour inviter quelqu'un à s'asseoir.",0.446
+105,Sama yaram nangu wu ko,Je suis allergique,Ma cuisine est derrière la maison.,0.426
+106,May ma ndox ma naan,Offrez-moi de l’eau à boire,Je ne trouve pas ma maison,0.345
+107,Dama bëgg giss doktoor,J’ai besoin de voir un médecin,J'ai besoin de voir un docteur,0.806
+108,Wootel doctor,Appelez un médecin,Je dois voir un docteur,0.311
+109,Ana hoppital ?,Où est l’hôpital ?,Où est l'hôpital ?,1.000
+110,Dama feebar,Je ne me sens pas très bien,Ma maison,0.323
+111,Fi moy meeti,J’ai mal ici,Reste tranquille,0.313
+112,Ana wanak wi ?,Où sont les toilettes ?,"""Où vas-tu ?""",0.513
+113,Wollu !,A l’aide !,Salut !,0.287
+114,Dema reer,Je suis perdu(e),Rentre à la maison,0.515
+115,sama Dom leuh,c'est mon fils,Ma famille est parti,0.571
+116,Yàlla,Dieu,Dieu,1.000
+117,Taax,Bâtiment,D'accord,0.200
+118,Keur,Maison,Maison,1.000
+119,Xalaat,Penser,Pardon,0.433
+120,Mayma ndox,Donne moi de l'eau,Je comprends,0.175
+121,Dama feebar,Je suis malade,Ma confiance,0.429
+122,Maa ngi dem marse,Je pars au marché,Je vais à Marseille,0.515
+123,Loy def ?,Tu fais quoi ?,Comment ça va ?,0.380
+124,Dama jaxasoo,Je suis confus,Je ne comprends pas,0.420
+125,Maa ngi ci buro bi,Je suis au bureau,Je suis dans la chambre,0.712
+126,Dama sedd,J'ai froid,Ma confiance,0.440
+127,Dama tàng,J'ai chaud,"""C'est délicieux""",0.358
+128,Dafa tàng,Il fait chaud,Je suis désolé,0.365
+129,Dafa sedd,Il fait froid,"Cela veut dire ""Donne-moi l'argent""",0.315
+130,Mu ngi taw,Il pleut,Je suis fatigué,0.256
+131,Jamonoy taw la!,C'est la saison des pluies!,C'est délicieux !,0.507
+132,Ginaaw taw bi klimaa bi dafay neex,Après la pluie vient le beau temps,La personne qui devait venir est arrivée tard.,0.461
+133,Mbeddi Ndakaar yi dañu fees ndax taw bi,Les rues de Dakar sont inondées à cause de la pluie,Les habitants de Dakar sont fatigués à cause de la chaleur.,0.692
+134,Danu wara wut pexe,Nous devons trouver un plan,Je ne comprends pas.,0.454
+135,Dama beug yengou ci mbay mi, Je veux entreprendre dans l'agriculture,Je ne veux plus rester dans cette maison.,0.498
+136,Warone na dem ci ndadjé bi, Je devais me rendre à cette rencontre,"""Il est allé à la plage.""",0.386
+137,Tay tassé na ak X, Aujourd'hui j'ai croisé X,J'ai passé la journée avec X.,0.656
+138,Diote nga sama yobanté ?, Tu as eu mon message ?,Peux-tu me donner mon chapeau ?,0.539

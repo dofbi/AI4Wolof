@@ -1,0 +1,762 @@
+No,Wolof,Français,Traduction,Score_Final
+2,Na nga def ?,Comment vas tu ?,"Comment allez-vous ?
+
+(C'est une salutation courante en Wolof qui signifie littéralement ""Comment es-tu ?"" et qui équivaut à ""Comment ça va ?"" en français.)",0.655
+3,Mangui gui fi,Je vais bien,"Traduction :
+""Je suis ici""
+
+Explication : 
+- ""Mangui"" signifie ""Je suis""
+- ""gui"" signifie ""ici""
+- ""fi"" est aussi une façon de dire ""ici"" en wolof
+
+La phrase est simple et directe, indiquant la présence de la personne qui parle à un endroit précis.",0.364
+4,iow nak no def ?,Et toi comment va tu ?,"Comment allez-vous ? (Littéralement : ""Alors, comment ça va ?"")
+
+C'est une salutation courante en Wolof, utilisée pour demander à quelqu'un comment il va.",0.592
+5,Mangui ci diam,Ca va,"Traduction : ""Je suis à la maison""
+
+Explication : 
+- ""Mangui"" signifie ""Je suis""
+- ""Ci"" est une préposition qui signifie ""à""
+- ""Diam"" signifie ""maison""
+
+La phrase complète exprime donc la localisation de la personne qui parle, indiquant qu'elle est chez elle.",0.306
+6,Kay gnou lekk,Viens on mange,"Traduction : ""Je veux manger""
+
+Explication :
+- ""Kay"" signifie ""Je""
+- ""Gnou"" signifie ""vouloir""
+- ""Lekk"" signifie ""manger""
+
+La phrase complète ""Kay gnou lekk"" exprime donc le désir de manger du locuteur.",0.499
+7,Gnata att nga am ?,Quelle age as-tu ?,"Traduction : ""Comment vas-tu ?"" 
+
+Explication : C'est une formule de salutation courante en Wolof, qui demande littéralement ""Comment es-tu ?"" ou ""Comment allez-vous ?"". C'est une manière polie et amicale de demander à quelqu'un comment il se porte.",0.458
+8,Tay dama woorr,J'ai jeûné aujourd'hui,"Traduction : ""Aujourd'hui je suis fatigué""
+
+Explication : 
+- ""Tay"" signifie ""aujourd'hui""
+- ""Dama"" est une construction verbale qui signifie ""je suis""
+- ""Woorr"" signifie ""fatigué"" ou ""las""",0.417
+9,Fane nga deuk ?,Où est-ce que tu habites ?,"Traduction : ""Comment vas-tu ?"" (Littéralement : ""Es-tu bien assis ?"")
+
+C'est une salutation courante en Wolof qui demande à la personne comment elle va, en utilisant une expression qui fait référence au fait d'être bien installé, de se porter bien.",0.407
+10,Nane nga toudou ?,Comment est-ce que tu t'appelle ?,"Traduction : ""Comment t'appelles-tu ?""
+
+Cette phrase est une question en Wolof qui demande le nom de la personne. Littéralement, ""Nane nga toudou ?"" signifie ""Quel est ton nom ?""",0.642
+11,Mangui toudou X,Je m'appelle X,"Voici la traduction en français :
+
+""Je m'appelle X""
+
+Explication : 
+- ""Mangui"" signifie ""Je suis""
+- ""Toudou"" signifie ""nommé"" ou ""appelé""
+- ""X"" représente le nom propre
+
+C'est une phrase courante en wolof pour se présenter et dire son nom.",0.715
+12,Dama la sokhla,J'ai besoin de toi,"Traduction : ""Je t'aime beaucoup"" ou ""Je te trouve très cher/chère""
+
+Explication : 
+- ""Dama"" signifie ""Je""
+- ""La"" est un pronom personnel signifiant ""toi""
+- ""Sokhla"" exprime l'affection, l'amour ou l'attachement
+
+Cette phrase est une expression d'affection en Wolof qui peut être traduite de manière légèrement différente selon le contexte, mais qui exprime fondamentalement un sentiment d'amour ou d'affection profonde.",0.508
+13,Dama khiff,J'ai faim,"Traduction : ""Je suis fatigué"" ou ""Je suis épuisé""
+
+La phrase ""Dama khiff"" exprime un état de fatigue physique ou mentale en Wolof.",0.359
+14,Dama marr,J'ai soif,"Traduction : ""Je suis fatigué(e)""
+
+Explication : 
+- ""Dama"" signifie ""Je""
+- ""Marr"" veut dire ""être fatigué"" ou ""être épuisé""
+
+La phrase exprime simplement l'état de fatigue du locuteur.",0.336
+15,Mangui joko si leund mi,Je me connecte sur le web,"Actuellement, je suis assis dans ma chambre.
+
+Traduction détaillée :
+- ""Mangui"" = Je suis
+- ""joko"" = assis
+- ""si"" = dans/sur
+- ""leund"" = chambre
+- ""mi"" = ma",0.288
+16,Dama beug lou jeum si waloum xarala,J'adore la Technologie,"Traduction : ""Je veux quelque chose de bon à manger dans mon bol""
+
+Explications :
+- ""Dama beug"" signifie ""Je veux""
+- ""lou jeum"" veut dire ""quelque chose de bon/délicieux""
+- ""si waloum"" signifie ""dans mon bol""
+- ""xarala"" est une expression qui renforce l'idée de manger quelque chose de savoureux",0.396
+17,Dama beug ndekki,Je veux prendre un petit déjeuner,"""Je veux me reposer"" ou ""J'ai envie de dormir""
+
+Explication :
+- ""Dama"" signifie ""Je""
+- ""beug"" veut dire ""vouloir""
+- ""ndekki"" signifie ""dormir"" ou ""se reposer""",0.465
+18,Dama beug Agne,Je veux prendre un déjeuner,"Traduction : ""Je veux Agne"" ou ""Je désire Agne""
+
+Note : Selon le contexte, ""Agne"" pourrait être un nom de personne, de lieu ou avoir un autre sens spécifique.",0.460
+19,Dama beug rére,Je veux prendre un dîner,"Traduction : ""Je veux me reposer""
+
+Analyse :
+- ""Dama"" = Je
+- ""beug"" = vouloir
+- ""rére"" = se reposer, se détendre",0.543
+20,Damay takk jabar,Je vais me marier,"Traduction : ""Je remercie mon épouse"" ou ""Je suis reconnaissant envers ma femme""
+
+Note : ""Damay"" signifie ""Je suis en train de"", ""takk"" veut dire ""remercier"", et ""jabar"" signifie ""épouse"" ou ""femme"".",0.433
+21,Mayma khaliss,Donne moi de l'argent,"Traduction : ""Je suis fatigué"" ou ""Je suis épuisé""
+
+Explication : 
+- ""Mayma"" signifie ""moi""
+- ""Khaliss"" signifie ""fatigué"" ou ""épuisé""
+
+La phrase exprime un état de fatigue personnelle.",0.483
+22,Bane wakhtu mo joot ?,Quelle heure fait-il ?,"Traduction : 
+Quelle heure est-il actuellement ?
+
+Explication :
+- ""Bane"" signifie ""quel""
+- ""Wakhtu"" signifie ""heure/temps""
+- ""Mo"" est un pronom personnel (il/elle)
+- ""Joot"" signifie ""être/se trouver""
+
+La phrase est une question simple demandant l'heure actuelle.",0.615
+23,Dama sonne,Je suis fatigué,"Traduction : 
+""Je suis fatigué(e)""
+
+Explication : 
+- ""Dama"" signifie ""Je""
+- ""Sonne"" veut dire ""fatigué"" en Wolof",0.736
+24,Bu la neexee,S’il vous plaît,"Traduction : ""Si tu veux"" ou ""Si tu en as besoin""
+
+Cette expression est souvent utilisée pour exprimer une disponibilité ou une ouverture à aider quelqu'un, avec une nuance de courtoisie. Elle peut aussi signifier ""Si tu le souhaites"" selon le contexte.",0.451
+25,Amul sólo,Je vous en prie,"Traduction : Il n'y a pas de sel.
+
+Explication détaillée :
+- ""Amul"" signifie ""il n'y a pas"" ou ""ne pas avoir""
+- ""Sólo"" signifie ""sel""
+- La phrase indique simplement l'absence de sel dans un contexte donné.",0.428
+26,Kay niou dem,Viens on y va,"Traduction : ""Allons-y"" ou ""On y va""
+
+Cette expression est une invitation à partir, à se mettre en route ensemble. Elle est couramment utilisée dans la langue wolof pour suggérer de se déplacer ou de commencer une action.",0.646
+27,Jéggël ma,Excusez-moi,"Traduction : Désolé (je vous demande pardon)
+
+Cette expression est utilisée pour s'excuser en Wolof. Le mot ""Jéggël"" signifie ""pardonner"" ou ""excuser"", et ""ma"" est un pronom personnel qui signifie ""moi"" ou ""je"".",0.503
+28,Ndax dégg nga angale ?,Parlez-vous anglais ?,"Traduction : ""Comprends-tu ce que je dis ?""
+
+Explication : 
+- ""Ndax"" est une particule interrogative
+- ""dégg"" signifie ""comprendre""
+- ""nga"" est le pronom personnel ""tu""
+- ""angale"" signifie ""ce que je dis""
+
+C'est une phrase courante en Wolof pour demander si quelqu'un comprend ce qui vient d'être dit.",0.412
+29,Dégg nga ?,Comprenez-vous ?,"Traduction : ""Tu comprends ?""
+
+Explication : C'est une expression courante en Wolof qui demande à quelqu'un s'il a compris ce qui vient d'être dit. ""Dégg"" signifie ""comprendre"", ""nga"" est un pronom personnel de la deuxième personne du singulier.",0.516
+30,Dégg naa,Je comprends,"Traduction : ""J'ai compris""
+
+Explication : Cette phrase en Wolof exprime la compréhension de quelque chose qui vient d'être dit ou expliqué. ""Dégg"" signifie ""comprendre"" et ""naa"" est un pronom personnel qui indique la première personne du singulier (je).",0.597
+31,Dégguma,Je ne comprends pas,"Traduction : ""Je n'aime pas"" ou ""Je refuse""
+
+Cette expression est composée de :
+- ""Dëgg"" qui signifie ""aimer""
+- ""Mu"" qui est un pronom personnel
+- ""Na"" qui est une marque négative
+
+Donc littéralement, ""Dégguma"" peut se traduire par ""Je n'aime pas"" ou ""Je ne veux pas"".",0.622
+32,Nanga tudd ?,Quel est ton nom ?,"Traduction : ""Comment tu t'appelles ?""
+
+Note : C'est une phrase courante en Wolof pour demander le nom de quelqu'un. Littéralement, ""Nanga tudd"" signifie ""Quel est ton nom ?""",0.742
+33,Jàmm nga fanaane ?,Comment s'est passée votre soirée ?,"Traduction : ""Comment vas-tu ?"" (littéralement : ""Es-tu en paix ?"")
+
+Cette expression est une salutation traditionnelle wolof qui demande à la personne comment elle va, en utilisant le mot ""jàmm"" qui signifie ""paix"".",0.493
+34,Fii ba Sandaga ñaata ?,Combien ça fait d'ici à Sandaga ?,"Traduction : ""Combien ça coûte ici à Sandaga ?""
+
+Explications :
+- ""Fii"" signifie ""ici""
+- ""Ba"" est une particule interrogative
+- ""Sandaga"" est le nom d'un célèbre marché à Dakar, au Sénégal
+- ""Ñaata"" signifie ""combien""
+
+La phrase est une question demandant le prix de quelque chose dans la zone du marché Sandaga.",0.624
+35,Fan mooy seen wanaag ?,Où sont les toilettes ?,"Traduction : ""Où est votre maison ?""
+
+Explication : 
+- ""Fan"" signifie ""où""
+- ""mooy"" est un mot de liaison 
+- ""seen"" veut dire ""votre""
+- ""wanaag"" signifie ""maison""",0.481
+36,Neexoon na,C'était bon,"Traduction : ""Comment vas-tu ?"" (Salutation informelle qui signifie littéralement ""Ça va ?"")
+
+Cette expression est une salutation courante en Wolof qui permet de demander à quelqu'un comment il se porte.",0.349
+37,Mi ngi ci jàmm,Il/Elle va bien,Je suis en paix / Je vais bien / Tout va bien pour moi,0.635
+38,Ñaata lay jar ?,Combien ça coûte ?,"Traduction : ""Combien coûte-t-il ?""
+
+Explication : Cette phrase en wolof est une question courante pour demander le prix de quelque chose. ""Ñaata"" signifie ""combien"", et ""lay jar"" signifie ""coûte-t-il"".",0.638
+39,Ñaata ngay jaaye bii ?,Tu vends ça combien ?,"Traduction : ""Combien vends-tu cela ?""
+
+(La phrase est une question en wolof demandant le prix d'un objet. ""Ñaata"" signifie ""combien"", ""ngay"" signifie ""tu"", ""jaaye"" veut dire ""vendre"", et ""bii"" est un démonstratif signifiant ""ceci"".)",0.657
+40,Seer na lool,C'est très cher,"Traduction : ""Il/Elle a très bien dormi"" ou ""Il/Elle a profondément dormi""
+
+Explication :
+- ""Seer"" signifie ""dormir""
+- ""Na"" est un marqueur de passé
+- ""Lool"" signifie ""beaucoup"" ou ""très""
+
+Donc, la phrase exprime que quelqu'un a fait une très bonne ou un très bon sommeil.",0.568
+41,Wagniil mako,Diminue moi ça,"Traduction en français : ""Je te salue"" ou ""Bonjour à toi""
+
+Cette phrase est une salutation en wolof, exprimant un accueil courtois et amical envers quelqu'un.",0.388
+42,Lougnouy lekk ?,Qu'est ce qu'on mange ?,"Traduction : ""As-tu mangé ?""
+
+Explication : C'est une phrase courante en Wolof pour demander à quelqu'un s'il a déjà pris son repas. ""Lougnouy"" est une forme interrogative qui signifie ""as-tu"" et ""lekk"" veut dire ""manger"".",0.543
+43,Naka nga yendo ?,Comment s'est passée ta journée ?,"Comment vas-tu ? (Traduction littérale : Comment marches-tu ?)
+
+Cette expression est une salutation courante en Wolof, équivalente à ""Comment ça va ?"" en français.",0.538
+44,Barki démb diaronne na sa keur,Avant-hier j'étais passé chez toi,"Traduction : 
+Hier, quelqu'un est venu visiter ta maison.
+
+Explication :
+- ""Barki démb"" signifie ""hier""
+- ""Diaronne"" veut dire ""venir rendre visite""
+- ""Na"" est un marqueur affirmatif
+- ""Sa keur"" signifie ""ta maison""",0.369
+45,Dama nieuwone indil leu sa khaliss,J'étais venu t'apporter ton argent,"Traduction : ""Je veux vraiment te remercier sincèrement""
+
+Explication détaillée :
+- ""Dama"" signifie ""Je""
+- ""nieuwone"" veut dire ""vraiment""
+- ""indil"" signifie ""remercier""
+- ""leu"" renforce l'intensité de l'action
+- ""sa khaliss"" signifie ""sincèrement"" ou ""de tout mon cœur""
+
+La phrase exprime donc un remerciement profond et sincère.",0.447
+46,Dama nékone daara dja,J'étais à l'école,"Traduction : ""Je suis allé à l'école aujourd'hui""
+
+Explication :
+- ""Dama"" = ""Je""
+- ""Nékone"" = ""aller""
+- ""Daara"" = ""école""
+- ""Dja"" = ""aujourd'hui""",0.536
+47,Damay saakou xam-xam,Je suis à la quête de connaissance,"Traduction : ""Je suis en train d'apprendre"" ou ""Je suis en train d'étudier""
+
+Explication détaillée :
+- ""Damay"" signifie ""Je suis en train de""
+- ""saakou"" veut dire ""apprendre"" ou ""étudier""
+- ""xam-xam"" renforce l'idée de connaissance, de savoir
+
+La phrase exprime l'action d'acquérir des connaissances ou de s'instruire à l'instant présent.",0.590
+48,Nianal ma !,Prie pour moi !,"Traduction : Embrasse-moi !
+
+Note : Cette expression est un ordre direct en Wolof qui signifie littéralement ""Embrasse-moi"", utilisé pour demander un baiser.",0.331
+49,Témérri Diouni,Cent milles,"Traduction française :
+
+""Bonjour Diouni"" ou ""Salut Diouni""
+
+Explication : 
+- ""Témérri"" est une salutation traditionnelle en Wolof, qui équivaut à ""Bonjour"" ou ""Salut"".
+- ""Diouni"" est un nom propre (probablement un prénom).",0.374
+50,Damala beug,Je t'aime,"Traduction : ""Je ne veux pas""
+
+Explication : 
+- ""Da"" est un pronom personnel signifiant ""je""
+- ""mala"" est une négation signifiant ""ne pas""
+- ""beug"" signifie ""vouloir""
+
+Donc, ""Damala beug"" se traduit littéralement par ""Je ne veux pas"".",0.357
+51,Dama gueuméntou,J'ai sommeil,Je suis fatigué(e),0.455
+52,Dama beug nelaw,Je veux dormir,"Traduction : 
+""Je veux dormir""
+
+Explication détaillée :
+- ""Dama"" signifie ""Je""
+- ""beug"" veut dire ""vouloir""
+- ""nelaw"" signifie ""dormir""
+
+Donc la phrase complète ""Dama beug nelaw"" exprime simplement le désir de dormir.",0.717
+53,Fane nga dieum ni ?,Où vas-tu ?,"Traduction : ""Comment vas-tu ?"" ou littéralement ""Ça va comment ?""
+
+C'est une salutation courante en Wolof qui permet de demander comment va quelqu'un. Elle est informelle et peut être utilisée avec des amis, de la famille ou des personnes avec qui on a une relation familière.",0.538
+54,Nélaww gua bou baxx ?,as tu bien dormi ?,"Traduction : ""Comment vas-tu ?"" (Littéralement : ""La santé est bonne ?"")
+
+Cette expression est une salutation courante en Wolof qui permet de prendre des nouvelles de quelqu'un. Elle est utilisée de manière informelle et amicale.",0.356
+55,Testou sansement bant yi,Test des mises à jours des branches,"Traduction : ""Tous les enfants sont bien habillés""
+
+Explication :
+- ""Testou"" signifie ""Tous""
+- ""Sansement"" veut dire ""bien"" ou ""correctement""
+- ""Bant"" se traduit par ""enfants""
+- ""Yi"" est un suffixe pluriel en Wolof",0.487
+56,Yalla baxna,ça ira,"Traduction : 
+""Dieu merci"" ou ""Grâce à Dieu""
+
+La phrase ""Yalla baxna"" est une expression courante en Wolof qui exprime la gratitude envers Dieu, souvent utilisée après avoir surmonté une difficulté ou pour marquer un soulagement.",0.358
+57,fane yi dara doxoul,Rien ne marche ces temps-ci,"Traduction : ""Ceux-là ne font rien de bien / ne font rien de bon""
+
+Explication :
+- ""fane"" : ceux-là, ces personnes
+- ""yi"" : article défini pluriel
+- ""dara"" : rien
+- ""doxoul"" : bien, bon (dans ce contexte, utilisé négativement)
+
+La phrase exprime un jugement négatif sur un groupe de personnes, suggérant qu'elles sont improductives ou inefficaces.",0.588
+58,Dieureudieuf,Merci,"Traduction : Merci beaucoup
+
+Explication : ""Dieureudieuf"" est une expression de remerciement très courante en Wolof, utilisée pour exprimer une gratitude sincère et profonde. C'est l'équivalent de ""merci beaucoup"" ou ""je vous remercie"" en français.",0.709
+59,Touti,un peu,"Traduction en français : 
+
+""Assis"" ou ""Prends place""
+
+Dans le contexte wolof, ce mot est une invitation à s'asseoir ou à prendre place quelque part.",0.363
+60,Kay,viens,"Traduction du Wolof en Français :
+
+""Kay"" peut avoir plusieurs significations selon le contexte, mais généralement cela signifie :
+
+""Très bien"" ou ""D'accord""
+
+C'est une expression couramment utilisée pour marquer l'accord, l'assentiment ou pour signifier que l'on comprend ce qui vient d'être dit.
+
+Exemple :
+- En Wolof : ""Kay, man dafa nekk"" 
+- En Français : ""D'accord, ça va""",0.565
+61,Kay Agne,viens manger,"Traduction en français : 
+
+""Bonne chance"" ou ""Que cela réussisse""
+
+Explication : 
+- C'est une expression wolof couramment utilisée pour souhaiter du succès ou encourager quelqu'un dans une entreprise ou un projet.
+- Elle est souvent prononcée pour transmettre des vœux positifs et du soutien.",0.365
+62,Damay touki,je voyage,"Traduction : ""Je ris"" ou ""Je suis en train de rire""
+
+Explication détaillée :
+- ""Damay"" est un marqueur qui indique l'action en cours
+- ""touki"" signifie ""rire""
+
+La phrase exprime l'action de rire au présent.",0.242
+63,Bokk na,Je participe,"Traduction : ""Il/Elle a partagé"" ou ""Ça a été partagé""
+
+Explication : Le verbe ""bokk"" signifie ""partager"" en Wolof. La terminaison ""-na"" indique un passé récent ou accompli.",0.422
+64,Dama beugue diangue.,J'aime les études.,Je suis fatigué.,0.457
+65,Nit ñu baree ngi ci kër gi.,Il y a beaucoup de gens dans la maison.,"Traduction : Beaucoup de gens sont dans la maison.
+
+Explication :
+- ""Nit"" signifie ""personne"" ou ""gens""
+- ""Ñu"" est un pronom sujet pluriel
+- ""Baree"" veut dire ""nombreux"" ou ""beaucoup""
+- ""Ngi"" indique une action en cours
+- ""Ci"" signifie ""dans""
+- ""Kër"" veut dire ""maison""
+- ""Gi"" est un article démonstratif
+
+La phrase décrit une situation où plusieurs personnes sont réunies à l'intérieur d'une maison.",0.489
+66,Ab paaka la yore.,Il a un couteau sur lui.,"Traduction : Il est né le matin.
+
+Explication détaillée :
+- ""Ab"" signifie ""un/une"" 
+- ""paaka"" veut dire ""matin""
+- ""la"" est un pronom de liaison
+- ""yore"" signifie ""naître""
+
+Donc la phrase ""Ab paaka la yore"" se traduit littéralement par ""Il est né le matin"".",0.354
+67,Dama khiff.,J'ai faim.,"Traduction : ""Je suis fatigué.""",0.464
+68,Dama ame ndadjé.,J'ai un rendez-vous.,Traduction : J'ai faim.,0.553
+69,Ndekki wouma.,Je n'ai pas pris mon petit-déjeuner.,"Traduction : ""Il fait très chaud.""
+
+Explication : Dans cette phrase en Wolof, ""Ndekki"" signifie ""chaleur"" et ""wouma"" indique l'intensité ou l'exagération, donc la traduction littérale serait ""chaleur excessive"" ou ""très chaud"".",0.443
+70,Awa diangue Kate la.,Awa est un bon élève,"Traduction : Awa s'appelle Kate.
+
+Explication : 
+- ""Awa"" est un prénom
+- ""diangue"" signifie ""s'appeler""
+- ""Kate la"" indique que Kate est son nom",0.565
+71,Sama mak bou djiguène daye toggou agne.,Ma grande sœur prépare le repas.,"Traduction : Ma femme est encore en train de dormir profondément.
+
+Explication :
+- ""Sama"" = Ma
+- ""mak"" = femme
+- ""bou"" = qui/lorsque
+- ""djiguène"" = femme
+- ""daye"" = encore/toujours
+- ""toggou"" = dormir
+- ""agne"" = profond/en profondeur",0.435
+72,Beugouma carote.,Je n'aime pas les carottes.,"Traduction : Je mange une carotte.
+
+La phrase wolof ""Beugouma carote"" est une phrase simple qui signifie littéralement ""Je mange une carotte"". Le verbe ""Beugouma"" signifie ""je mange"", et ""carote"" est le mot pour ""carotte"" (emprunté au français).",0.525
+73,Legui mangui diangue ak Médoune.,Maintenant j'apprends avec Médoune.,"Traduction : ""Voici mon ami Médoune.""
+
+Explication : 
+- ""Legui"" signifie ""voici"" ou ""c'est""
+- ""mangui"" signifie ""mon""
+- ""diangue"" signifie ""ami""
+- ""ak"" signifie ""et""
+- ""Médoune"" est un nom propre",0.448
+74,Sama yaye dafa beugue pomme.,Ma mère aimes les pommes.,"Ma traduction :
+
+""Ma mère veut une pomme.""
+
+Explication :
+- ""Sama"" = Ma 
+- ""Yaye"" = Mère
+- ""Dafa"" = Elle (pronom sujet)
+- ""Beugue"" = Vouloir
+- ""Pomme"" = Pomme (mot gardé tel quel)",0.623
+75,Dama taxaw!,Je suis debout!,"Traduction : ""Je me lève !"" ou ""Je me suis levé !""
+
+La phrase ""Dama taxaw"" est composée de :
+- ""Dama"" qui signifie ""je""
+- ""Taxaw"" qui signifie ""se lever""
+
+Dans ce contexte, cela peut signifier soit que la personne est en train de se lever, soit qu'elle vient de se lever.",0.571
+76,Beugouma,Je n'aime pas,"Traduction française : ""Je suis fatigué"" ou ""Je suis las""
+
+Cette expression wolof exprime un état de fatigue physique ou mentale, un sentiment d'épuisement.",0.458
+77,Maa ngi dem,Je m’en vais,"Traduction : ""Je vais y aller"" ou ""Je m'en vais""
+
+Cette expression est couramment utilisée en Wolof pour indiquer qu'une personne est sur le point de partir ou qu'elle est en train de partir.",0.718
+78,Ba beneen yoon inch Allah,A la prochaine si Dieu le veut,"Traduction : ""À la prochaine fois, inch'Allah""
+
+Note : ""Inch'Allah"" est une expression arabe signifiant ""si Dieu le veut"", souvent utilisée par les musulmans pour exprimer un souhait ou un espoir conditionnel.",0.657
+79,Boroom ndékki ku ko jëkka yeewu tëddaat,Celui qui se lève avant le responsable du petit déjeuner peut aller se recoucher,"Traduction : 
+
+""Le propriétaire de la maison qui le premier se réveille le matin""
+
+Explication détaillée :
+- ""Boroom ndékki"" signifie ""propriétaire de la maison""
+- ""ku"" est un pronom relatif qui signifie ""qui""
+- ""ko"" est un pronom personnel qui signifie ""le""
+- ""jëkka"" veut dire ""premier""
+- ""yeewu"" signifie ""se réveiller""
+- ""tëddaat"" signifie ""le matin""
+
+La phrase décrit donc la première personne qui se réveille le matin dans une maison.",0.505
+80,Ganaar du am faru siiru,La poule ne doit pas avoir pour fiancer un chat sauvage,"Traduction : 
+""Il fait chaud et il n'y a pas de pluie""
+
+Explication :
+- ""Ganaar"" signifie ""chaleur"" ou ""il fait chaud""
+- ""du"" est une particule de négation
+- ""am"" signifie ""avoir""
+- ""faru"" signifie ""pluie""
+- ""siiru"" peut signifier ""tomber"" ou ""pleuvoir""
+
+Donc, la phrase décrit une situation de chaleur sans précipitations.",0.512
+81,Guy dana juri dég,Il arrive qu’un baobab ait des épines,"Traduction : ""Comment vas-tu rapidement ?""
+
+Explication détaillée :
+- ""Guy"" signifie ""Comment""
+- ""dana"" est une forme de salutation qui signifie ""tu""
+- ""juri"" veut dire ""rapidement""
+- ""dég"" est une variante de ""deg"", qui peut signifier ""aller"" ou ""se porter""
+
+Cette phrase est une salutation informelle qui demande à quelqu'un comment il va, avec une nuance d'rapidité ou d'empressement.",0.395
+82,Daay fay!,Ca paye!,"Traduction : Tu es en colère !
+
+Explication : ""Daay fay"" est une expression wolof qui signifie littéralement que quelqu'un est fâché, en colère ou irrité.",0.362
+83,Ko yaab iow!,Tu qui on se moques là,"Traduction : ""Ouvre-le rapidement !""
+
+Explication : 
+- ""Ko"" signifie ""le/la"" (pronom personnel)
+- ""Yaab"" veut dire ""ouvrir""
+- ""Iow"" signifie ""vite/rapidement""
+
+Il s'agit d'un ordre ou d'une injonction pressante à ouvrir quelque chose sans attendre.",0.361
+84,Am ngeu melokane deh!,Ah ouais t'es comme çà toi!,"Traduction : ""Prends soin de toi !""
+
+Explication : Cette expression est une salutation ou un souhait bienveillant en Wolof, littéralement traduit comme ""Prends soin de toi"" ou ""Protège-toi"", utilisée pour montrer de l'affection et du souci pour quelqu'un.",0.465
+85,Dama taxaw!,Je suis debout!,"Traduction : Je me lève !
+
+Explication : ""Dama taxaw"" est une expression courante en wolof qui signifie ""Je me lève"" ou ""Je suis debout"". Le verbe ""taxaw"" signifie ""se lever"" ou ""être debout"", et ""Dama"" est la forme conjuguée de ""Je"" dans ce contexte.",0.714
+86,Dama invité sama gel,J'ai invité ma petite copine,"Traduction : ""J'ai invité mon ami(e)""
+
+Note : 
+- ""Dama"" signifie ""Je""
+- ""invité"" est un verbe qui signifie ""inviter""
+- ""sama"" signifie ""mon/ma""
+- ""gel"" signifie ""ami(e)""
+
+La phrase est une déclaration simple exprimant l'action d'avoir invité un ami ou une amie.",0.536
+87,Yomb na,C’est très bon marché,"Traduction : ""Il/Elle est fatigué(e)""
+
+Cette expression en Wolof signifie qu'une personne est fatiguée, épuisée physiquement ou mentalement.",0.375
+88,Bare na,C’est trop cher,"Traduction : ""Il/Elle a parlé"" ou ""Il/Elle a dit""
+
+Cette phrase est à la forme passée du verbe ""waxtaan"" (parler) en Wolof. ""Bare"" indique que l'action de parler a été accomplie.",0.429
+89,Ba beneen yoon inch Allah,A la prochaine si Dieu le veut,"Traduction : ""À la prochaine fois, inch Allah"" (Si Dieu le veut)
+
+Explication : C'est une expression courante en Wolof (et en arabe) utilisée pour prendre congé en souhaitant se revoir lors d'une prochaine rencontre, tout en invoquant la volonté divine.
+
+""Inch Allah"" est une formule qui signifie littéralement ""si Dieu le veut"", souvent utilisée pour marquer l'espoir ou l'incertitude quant à un événement futur.",0.628
+90,Degg nga Français,Parlez-vous Français,"Traduction : ""Comprends-tu le français ?""
+
+Explication :
+- ""Degg"" signifie ""comprendre""
+- ""Nga"" est un pronom personnel qui signifie ""tu""
+- ""Français"" est le même mot en wolof et en français",0.504
+91,Deedeet jërëjëf,Non merci,"Traduction : Non merci.
+
+Explication : 
+- ""Deedeet"" signifie ""non""
+- ""Jërëjëf"" est une formule de politesse qui signifie ""merci""
+- Ensemble, cette expression est une façon polie de décliner poliment une offre.",0.717
+92,Amul solo,De rien,"Traduction : Il n'y a pas de problème / Pas de souci / Ça va
+
+Explication : C'est une expression courante en Wolof qui signifie littéralement ""pas de problème"". Elle est souvent utilisée pour rassurer quelqu'un ou montrer que tout va bien.",0.532
+93,Niokobok,Je vous en prie,"Traduction : ""Merci beaucoup"" ou ""Je vous remercie sincèrement""
+
+Cette expression est une formule de remerciement très polie et chaleureuse en Wolof, utilisée pour exprimer une grande gratitude.",0.478
+94,Li lan la,Qu’est-ce que c’est ?,"Traduction : ""Qu'est-ce que c'est ?""
+
+Explication : Cette phrase est une expression courante en Wolof utilisée pour demander ce qu'est quelque chose ou de quoi il s'agit.",0.733
+95,Dema fe ñëw wakansu,Je suis ici en vacances,"Traduction : ""Je viens passer mes vacances""
+
+Décomposition :
+- ""Dema"" = Je (pronom personnel)
+- ""fe"" = ici/là
+- ""ñëw"" = venir
+- ""wakansu"" = vacances (mot proche du français)",0.535
+96,Dema fe ñëw ngir ligey,Je suis ici pour le travail,"Traduction : Je suis venu ici pour travailler.
+
+Explication détaillée :
+- ""Dema"" signifie ""Je""
+- ""fe"" veut dire ""ici""
+- ""ñëw"" signifie ""venir""
+- ""ngir"" est une préposition qui signifie ""pour""
+- ""ligey"" veut dire ""travailler""
+
+La phrase exprime simplement l'intention de la personne de venir à un endroit spécifique dans le but de travailler.",0.676
+97,Demay Xool rek,Je ne fais que regarder,"Traduction : ""Regarde seulement""
+
+Explication : 
+- ""Demay"" signifie ""Regarde""
+- ""Xool"" veut dire ""regarder""
+- ""rek"" est un particule qui signifie ""seulement"" ou ""juste""
+
+La phrase exprime l'idée de simplement regarder, sans faire autre chose.",0.508
+98,Dama bëgga dem,Je voudrais aller,"Traduction : 
+""Je veux y aller"" ou ""J'ai envie de partir""
+
+Explication :
+- ""Dama"" signifie ""Je""
+- ""Bëgga"" signifie ""vouloir"" ou ""avoir envie""
+- ""Dem"" signifie ""aller""
+
+La phrase exprime un désir ou une intention de se déplacer ou de partir.",0.553
+99,Ndax mën naa fi luwe,Je voudrais louer,"Traduction : 
+""Est-ce que je peux rester ici ?""
+
+Explication :
+- ""Ndax"" est une particule interrogative qui signifie ""Est-ce que""
+- ""mën naa"" signifie ""je peux""
+- ""fi"" veut dire ""ici""
+- ""luwe"" signifie ""rester""
+
+La phrase est donc une question polie demandant la permission de rester à un endroit.",0.395
+100,Neex na torop,C’était délicieux,"Traduction : ""Il/elle a couru vite""
+
+Explication : 
+- ""Neex na"" signifie ""il/elle a couru""
+- ""torop"" signifie ""vite"" ou ""rapidement""
+
+La phrase décrit une action de course rapide.",0.334
+101,Lo may digël ?,Qu’est-ce que vous me recommandez ?,"Traduction : ""Comment vas-tu ?"" ou ""Ça va ?""
+
+Cette expression est une salutation courante en wolof qui demande à la personne comment elle se porte.",0.476
+102,Du ma lek yapp,Je suis végétarien,"Traduction : ""Je mange de la viande""
+
+Explication :
+- ""Du ma"" signifie ""Je""
+- ""lek"" veut dire ""manger""
+- ""yapp"" signifie ""viande""",0.287
+103,Bëggu ma kaani,Sans épice (Je n’aime pas les épices),"Traduction : ""Je ne veux pas dormir""
+
+Décomposition :
+- ""Bëggu"" = ne pas vouloir
+- ""ma"" = me, moi
+- ""kaani"" = dormir",0.458
+104,Tang na,C’est trop chaud,"Traduction : ""Il fait chaud"" ou ""Il fait une chaleur étouffante""
+
+Note : Cette expression en wolof décrit généralement une température très élevée ou une chaleur intense.",0.541
+105,Sama yaram nangu wu ko,Je suis allergique,"Traduction : ""Mon corps est fatigué""
+
+Note : La phrase est en wolof, et se décompose ainsi :
+- ""Sama"" = Mon
+- ""yaram"" = corps
+- ""nangu"" = fatigué
+- ""wu"" = particule
+- ""ko"" = le/la",0.314
+106,May ma ndox ma naan,Offrez-moi de l’eau à boire,"Traduction : ""Donne-moi de l'eau à boire""
+
+Explication :
+- ""May"" signifie ""donner""
+- ""ma"" est un pronom signifiant ""moi""
+- ""ndox"" veut dire ""eau""
+- ""naan"" signifie ""boire""
+
+La phrase est une demande polie pour obtenir de l'eau à boire.",0.626
+107,Dama bëgg giss doktoor,J’ai besoin de voir un médecin,"Traduction : ""Je veux voir un médecin.""
+
+Note explicative :
+- ""Dama"" signifie ""Je""
+- ""bëgg"" veut dire ""vouloir""
+- ""giss"" signifie ""voir""
+- ""doktoor"" est le mot ""docteur""
+
+La phrase exprime donc le désir de la personne de consulter un médecin.",0.535
+108,Wootel doctor,Appelez un médecin,"Traduction : ""Il faut consulter un médecin"" ou ""Va voir un médecin""
+
+Explication : ""Wootel"" en wolof signifie littéralement ""chercher/consulter"" et ""doctor"" est un mot emprunté à l'anglais signifiant ""médecin"". Cette expression est utilisée pour conseiller à quelqu'un d'aller consulter un professionnel de santé.",0.525
+109,Ana hoppital ?,Où est l’hôpital ?,Où est l'hôpital ?,1.000
+110,Dama feebar,Je ne me sens pas très bien,"Traduction : ""Je suis malade"" ou ""Je ne me sens pas bien""
+
+Explication :
+- ""Dama"" signifie ""Je""
+- ""Feebar"" veut dire ""malade""",0.697
+111,Fi moy meeti,J’ai mal ici,"Traduction : ""C'est ici qu'on se rencontre"" ou ""Rendez-vous ici""
+
+Explication : 
+- ""Fi"" signifie ""ici""
+- ""Moy"" est une forme verbale qui signifie ""se passer"" ou ""avoir lieu""
+- ""Meeti"" signifie ""rencontre""
+
+La phrase indique un lieu de rendez-vous ou un endroit où les gens se retrouvent.",0.461
+112,Ana wanak wi ?,Où sont les toilettes ?,Traduction : Quelle heure est-il ?,0.393
+113,Wollu !,A l’aide !,"Bonjour !
+
+(La réponse ""Wollu"" est un salut en Wolof, et ""Bonjour"" est sa traduction standard en français.)",0.374
+114,Dema reer,Je suis perdu(e),"Traduction : ""Je vais bien"" ou ""Tout va bien pour moi""
+
+Cette expression est une salutation courante en Wolof qui indique que la personne se porte bien ou que tout se passe bien pour elle. Elle peut être utilisée dans divers contextes informels pour répondre à la question ""Comment allez-vous ?""",0.421
+115,sama Dom leuh,c'est mon fils,"Traduction : Mon patron (ou mon chef)
+
+Explication :
+- ""sama"" signifie ""mon"" ou ""ma""
+- ""Dom"" signifie ""patron"" ou ""chef""
+- ""leuh"" est une particule courante dans la langue wolof qui n'affecte pas le sens de la phrase.",0.535
+116,Yàlla,Dieu,"Traduction : 
+1. Dieu
+2. Mon Dieu (expression courante)
+
+Note : En wolof, ""Yàlla"" est un mot très utilisé qui signifie ""Dieu"" et qui est aussi employé comme une interjection, un peu comme ""mon Dieu"" en français, pour exprimer la surprise, l'admiration ou la frustration.",0.706
+117,Taax,Bâtiment,"Traduction : 
+""Attends"" ou ""Patiente""
+
+Cette expression est utilisée pour demander à quelqu'un de patienter ou d'attendre un moment.",0.454
+118,Keur,Maison,Traduction : Maison,0.800
+119,Xalaat,Penser,"Traduction : 
+
+""Essaie"" ou ""Essaye""
+
+Selon le contexte, cette phrase peut signifier :
+- Essaie de faire quelque chose
+- Essaye un peu
+- Tente ta chance",0.393
+120,Mayma ndox,Donne moi de l'eau,"""Mayma ndox"" peut être traduit en français par :
+
+""J'ai soif.""
+
+Explication :
+- ""Mayma"" signifie ""moi"" ou ""je""
+- ""Ndox"" signifie ""eau"" ou ""boisson""
+- Ensemble, l'expression exprime le besoin ou l'envie de boire.",0.564
+121,Dama feebar,Je suis malade,"Traduction : 
+""Je suis malade"" ou ""Je ne me sens pas bien""
+
+Explication : 
+- ""Dama"" = Je 
+- ""feebar"" = être malade",0.731
+122,Maa ngi dem marse,Je pars au marché,"Traduction : ""Je vais au marché""",0.658
+123,Loy def ?,Tu fais quoi ?,"Traduction : ""Comment ça va ?""
+
+Cette expression est une salutation courante en Wolof qui demande à l'autre personne comment elle se porte, équivalent à ""Ça va ?"" en français.",0.554
+124,Dama jaxasoo,Je suis confus,"Traduction : ""Je suis fatigué"" ou ""Je suis épuisé""
+
+La phrase ""Dama jaxasoo"" en Wolof exprime un état de fatigue ou d'épuisement, physique ou mental.",0.517
+125,Maa ngi ci buro bi,Je suis au bureau,"Traduction : ""Je suis dans la salle de bain""
+
+Explication : 
+- ""Maa"" signifie ""Je""
+- ""Ngi"" est un marqueur de présence
+- ""Ci"" signifie ""dans""
+- ""Buro"" signifie ""salle de bain""
+- ""Bi"" est un article défini",0.579
+126,Dama sedd,J'ai froid,"Traduction : ""Je suis fatigué""
+
+Explication : 
+- ""Dama"" signifie ""Je""
+- ""Sedd"" veut dire ""fatigué"" ou ""las""",0.293
+127,Dama tàng,J'ai chaud,"Traduction : ""J'ai faim""
+
+Note : La phrase ""Dama tàng"" est une expression wolof courante qui signifie littéralement ""J'ai faim"" et exprime le besoin de manger.",0.498
+128,Dafa tàng,Il fait chaud,Traduction : Il fait chaud / Il a chaud,0.780
+129,Dafa sedd,Il fait froid,"Traduction : ""Il/Elle est fatigué(e)""
+
+Explication : 
+- ""Dafa"" est un marqueur verbal qui indique l'état ou l'action en cours
+- ""Sedd"" signifie ""fatigué"" en Wolof",0.330
+130,Mu ngi taw,Il pleut,"Traduction : ""Il/elle est en train de tomber"" ou ""Il/elle tombe""
+
+Décomposition :
+- ""Mu"" : pronom personnel (il/elle)
+- ""Ngi"" : particule qui indique une action en cours
+- ""Taw"" : verbe tomber",0.360
+131,Jamonoy taw la!,C'est la saison des pluies!,"Traduction : Tu es intelligent !
+
+Explication : 
+- ""Jamonoy"" signifie ""intelligent"" en Wolof
+- ""taw"" est un pronom personnel qui signifie ""tu""
+- ""la"" est une particule affirmative
+
+Donc la phrase ""Jamonoy taw la!"" est un compliment signifiant ""Tu es intelligent!"" en français.",0.456
+132,Ginaaw taw bi klimaa bi dafay neex,Après la pluie vient le beau temps,"Traduction : 
+Le vent de l'après-midi est agréable aujourd'hui.
+
+Explication :
+- ""Ginaaw taw"" signifie ""après-midi""
+- ""klimaa bi"" désigne le vent
+- ""dafay neex"" veut dire ""c'est agréable/bon""
+
+La traduction capture le sens de la phrase qui exprime la qualité plaisante du vent durant l'après-midi.",0.468
+133,Mbeddi Ndakaar yi dañu fees ndax taw bi,Les rues de Dakar sont inondées à cause de la pluie,"Traduction : Les vieilles bâtisses ont été détruites parce que la pluie est tombée.
+
+Explication :
+- ""Mbeddi Ndakaar"" signifie ""vieilles bâtisses"" ou ""anciennes constructions""
+- ""dañu"" indique une action réalisée
+- ""fees"" signifie ""démolir"" ou ""détruire""
+- ""ndax"" signifie ""parce que""
+- ""taw bi"" signifie ""la pluie""
+
+La traduction capture le sens de la phrase qui explique que des constructions anciennes ont été détruites en raison de la pluie.",0.557
+134,Danu wara wut pexe,Nous devons trouver un plan,"Traduction : 
+""Il faut que tu paies""
+
+Explication :
+- ""Danu"" signifie ""il faut que"" 
+- ""wara"" est un indicatif d'obligation
+- ""wut"" veut dire ""payer""
+- ""pexe"" est la forme conjuguée du verbe ""payer""",0.371
+135,Dama beug yengou ci mbay mi, Je veux entreprendre dans l'agriculture,"Traduction : 
+""Je veux nager dans la mer""
+
+Explication :
+- ""Dama"" = Je 
+- ""beug"" = vouloir
+- ""yengou"" = nager
+- ""ci"" = dans
+- ""mbay"" = mer
+- ""mi"" = la/le (article défini)",0.480
+136,Warone na dem ci ndadjé bi, Je devais me rendre à cette rencontre,"Traduction : ""Il/Elle est allé(e) tôt le matin""
+
+Détails de la traduction :
+- ""Warone"" signifie ""tôt"" ou ""de bonne heure""
+- ""na"" est un marqueur de l'accompli (action terminée)
+- ""dem"" veut dire ""aller""
+- ""ci ndadjé bi"" signifie ""le matin""",0.383
+137,Tay tassé na ak X, Aujourd'hui j'ai croisé X,"Traduction : Aujourd'hui, il/elle a dormi avec X
+
+Note : Cette phrase suggère qu'une personne a passé la nuit ou a eu une relation intime avec quelqu'un nommé X.",0.534
+138,Diote nga sama yobanté ?, Tu as eu mon message ?,"Traduction : ""Comment vas-tu mon ami ?""
+
+Explication : Cette phrase est une salutation amicale en Wolof qui demande littéralement à quelqu'un comment il va, avec une touche de familiarité et de convivialité.",0.451
