@@ -29,6 +29,7 @@ Les technologies NLP peuvent grandement contribuer à la préservation et à la 
 | 5 | [mistralai/mistral-large-2411](data/output/traduction/mistralai-mistral-large-2411.csv)  | 0.454  |
 | 6 | [deepseek/deepseek-chat](data/output/traduction/deepseek-deepseek-chat.csv)  | 0.444  |
 | 7 | [groq:llama-3.3-70b-versatile](data/output/traduction/groq-llama-3.3-70b-versatile.csv)  | 0.416  |
+| 8 | [eva-unit-01/eva-qwen-2.5-72b](data/output/traduction/eva-unit-01-eva-qwen-2.5-72b.csv)  | 0.414  |
 
 ### 2. Génération d'Histoires
 ### 3. Compréhension de Texte
