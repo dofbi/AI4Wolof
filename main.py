@@ -1,3 +1,4 @@
+#import os
 import csv
 import time
 from typing import Dict, List, Tuple
@@ -10,7 +11,7 @@ from pathlib import Path
 from threading import Lock
 
 # Constantes pour les valeurs par défaut et les configurations
-DEFAULT_MODEL_NAME = "gemini-2.0-flash-exp"
+DEFAULT_MODEL_NAME = "gemini-1.5-flash"
 DEFAULT_MAX_LINES = 138  # Utiliser None pour traiter tout le fichier
 DEFAULT_RETRY_DELAY = 5 # Délai en secondes entre les tentatives de l'appel à l'api
 MAX_API_CALLS_PER_MINUTE = 15  # Nombre maximal d'appels API par minute
@@ -169,7 +170,7 @@ class TranslationService:
         # model = OpenAIModel(
         #     model_name,
         #     base_url='https://openrouter.ai/api/v1',
-        #     api_key='<api-key>',
+        #     api_key=os.environ.get("OPENROUTER_API_KEY"),
         # )
         
         self.translation_agent = Agent(
