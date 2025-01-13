@@ -28,11 +28,12 @@ Les technologies NLP peuvent grandement contribuer à la préservation et à la 
 | 4 | [openai/gpt-4o-mini](data/output/traduction/openai-gpt-4o-mini.csv)  | 0.532  |
 | 5 | [anthropic:claude-3-5-haiku-latest](data/output/traduction/anthropic-claude-3-5-haiku-latest.csv)  | 0.505  |
 | 6 | [mistralai/mistral-large-2411](data/output/traduction/mistralai-mistral-large-2411.csv)  | 0.454  |
-| 7 | [deepseek/deepseek-chat](data/output/traduction/deepseek-deepseek-chat.csv)  | 0.444  |
-| 8 | [groq:llama-3.3-70b-versatile](data/output/traduction/groq-llama-3.3-70b-versatile.csv)  | 0.416  |
-| 9 | [eva-unit-01/eva-qwen-2.5-72b](data/output/traduction/eva-unit-01-eva-qwen-2.5-72b.csv)  | 0.414  |
-| 10 | [gemini-1.5-flash](data/output/traduction/gemini-1.5-flash.csv)  | 0.412  |
-| 11 | [meta-llama/llama-3.3-70b-instruct](data/output/traduction/meta-llama-llama-3.3-70b-instruct.csv)  | 0.409  |
+| 7 | [soynade-research/Oolel-v0.1](data/output/traduction/soynade-research-Oolel-v0.1.csv)  | 0.450  |
+| 8 | [deepseek/deepseek-chat](data/output/traduction/deepseek-deepseek-chat.csv)  | 0.444  |
+| 9 | [groq:llama-3.3-70b-versatile](data/output/traduction/groq-llama-3.3-70b-versatile.csv)  | 0.416  |
+| 10 | [eva-unit-01/eva-qwen-2.5-72b](data/output/traduction/eva-unit-01-eva-qwen-2.5-72b.csv)  | 0.414  |
+| 11 | [gemini-1.5-flash](data/output/traduction/gemini-1.5-flash.csv)  | 0.412  |
+| 12 | [meta-llama/llama-3.3-70b-instruct](data/output/traduction/meta-llama-llama-3.3-70b-instruct.csv)  | 0.409  |
 
 ### 2. Génération d'Histoires
 ### 3. Compréhension de Texte

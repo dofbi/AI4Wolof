@@ -1,2 +1,3 @@
 pydantic-ai
 python_dotenv
+gradio_client

@@ -1,0 +1,138 @@
+No,Wolof,Français,Traduction,Score_Final
+2,Na nga def ?,Comment vas tu ?,Comment vas-tu ?,0.812
+3,Mangui gui fi,Je vais bien,il a mangé le fruit qu'il y avait.,0.387
+4,iow nak no def ?,Et toi comment va tu ?,"Et alors quoi, quoi ?",0.442
+5,Mangui ci diam,Ca va,L'argent dans les poches,0.365
+6,Kay gnou lekk,Viens on mange,Kagnoo lekk,0.328
+7,Gnata att nga am ?,Quelle age as-tu ?,"Gnata, àcc naa?",0.381
+8,Tay dama woorr,J'ai jeûné aujourd'hui,Le temps a passé.,0.406
+9,Fane nga deuk ?,Où est-ce que tu habites ?,Comment vas-tu?,0.311
+10,Nane nga toudou ?,Comment est-ce que tu t'appelle ?,Comment vas-tu?,0.416
+11,Mangui toudou X,Je m'appelle X,Manguetou est mort.,0.257
+12,Dama la sokhla,J'ai besoin de toi,Je te prie.,0.352
+13,Dama khiff,J'ai faim,J'ai peur,0.750
+14,Dama marr,J'ai soif,Dama marr,0.300
+15,Mangui joko si leund mi,Je me connecte sur le web,L'humidité a fait que l'herbe de mangoussier ne poussa pas.,0.380
+16,Dama beug lou jeum si waloum xarala,J'adore la Technologie,"Je suis triste, épuisé et déprimé.",0.299
+17,Dama beug ndekki,Je veux prendre un petit déjeuner,J'ai le reveil à six heures.,0.489
+18,Dama beug Agne,Je veux prendre un déjeuner,C'est Agnès qui m'a demandé.,0.349
+19,Dama beug rére,Je veux prendre un dîner,Je suis triste,0.306
+20,Damay takk jabar,Je vais me marier,Je suis fiancé.,0.297
+21,Mayma khaliss,Donne moi de l'argent,Maam Khalis,0.242
+22,Bane wakhtu mo joot ?,Quelle heure fait-il ?,C'est qui le grand méchant-loup?,0.394
+23,Dama sonne,Je suis fatigué,J'ai sonné.,0.440
+24,Bu la neexee,S’il vous plaît,Bu la neexee,0.200
+25,Amul sólo,Je vous en prie,Aucune chance,0.240
+26,Kay niou dem,Viens on y va,C'est à cause de la marée montante qu'il ne peut pas.,0.335
+27,Jéggël ma,Excusez-moi,Pardon.,0.287
+28,Ndax dégg nga angale ?,Parlez-vous anglais ?,Xam nga anglais?,0.607
+29,Dégg nga ?,Comprenez-vous ?,As-tu déjà entendu parler ?,0.330
+30,Dégg naa,Je comprends,J'ai entendu,0.362
+31,Dégguma,Je ne comprends pas,Je déglutis.,0.164
+32,Nanga tudd ?,Quel est ton nom ?,Comment t'appelles-tu?,0.327
+33,Jàmm nga fanaane ?,Comment s'est passée votre soirée ?,Comment vas-tu ?,0.432
+34,Fii ba Sandaga ñaata ?,Combien ça fait d'ici à Sandaga ?,"Ci Sandaga, combien?",0.675
+35,Fan mooy seen wanaag ?,Où sont les toilettes ?,L’ouverture a-t-elle lieu à quelle heure ?,0.319
+36,Neexoon na,C'était bon,Baaxoon na,0.497
+37,Mi ngi ci jàmm,Il/Elle va bien,Il est calme,0.352
+38,Ñaata lay jar ?,Combien ça coûte ?,Combien ça va coûté ?,0.763
+39,Ñaata ngay jaaye bii ?,Tu vends ça combien ?,Combien coûte ce produit?,0.600
+40,Seer na lool,C'est très cher,Très bien.,0.483
+41,Wagniil mako,Diminue moi ça,Vendredi matin,0.550
+42,Lougnouy lekk ?,Qu'est ce qu'on mange ?,L'Autrichien Lougnouy mange ?,0.569
+43,Naka nga yendo ?,Comment s'est passée ta journée ?,comment vas-tu?,0.413
+44,Barki démb diaronne na sa keur,Avant-hier j'étais passé chez toi,Barki démb di a ron sa keur,0.375
+45,Dama nieuwone indil leu sa khaliss,J'étais venu t'apporter ton argent,J'en ai assez d'être traité comme une chèvre à la laitière.,0.444
+46,Dama nékone daara dja,J'étais à l'école,je suis entré dans l'école,0.623
+47,Damay saakou xam-xam,Je suis à la quête de connaissance,Je cherche à obtenir des connaissances,0.557
+48,Nianal ma !,Prie pour moi !,S'il vous plaît !,0.417
+49,Témérri Diouni,Cent milles,Thiémouri Dioune,0.387
+50,Damala beug,Je t'aime,"Là où je suis, la pluie tombe.",0.460
+51,Dama gueuméntou,J'ai sommeil,Je suis en congé.,0.427
+52,Dama beug nelaw,Je veux dormir,Je suis allé me coucher.,0.324
+53,Fane nga dieum ni ?,Où vas-tu ?,Ñaata laa wara def ?,0.240
+54,Nélaww gua bou baxx ?,as tu bien dormi ?,Dormir toute la nuit ?,0.470
+55,Testou sansement bant yi,Test des mises à jours des branches,Test bu sanguis bant,0.599
+56,Yalla baxna,ça ira,C'est à la fin.,0.333
+57,fane yi dara doxoul,Rien ne marche ces temps-ci,les chaînes de distribution ne marchent pas,0.670
+58,Dieureudieuf,Merci,Diyeroudeuf,0.375
+59,Touti,un peu,Touti,0.375
+60,Kay,viens,C'est bon.,0.411
+61,Kay Agne,viens manger,Kébédi (Kaye) Agne,0.421
+62,Damay touki,je voyage,Je vais me laver,0.347
+63,Bokk na,Je participe,Dafa,0.308
+64,Dama beugue diangue.,J'aime les études.,Je suis triste.,0.467
+65,Nit ñu baree ngi ci kër gi.,Il y a beaucoup de gens dans la maison.,Il y a beaucoup de gens dans la maison.,1.000
+66,Ab paaka la yore.,Il a un couteau sur lui.,C'est un sommeil profond qu'il a.,0.572
+67,Dama khiff.,J'ai faim.,Je suis désolé.,0.387
+68,Dama ame ndadjé.,J'ai un rendez-vous.,J'ai une très mauvaise humeur.,0.550
+69,Ndekki wouma.,Je n'ai pas pris mon petit-déjeuner.,Je me réveille.,0.248
+70,Awa diangue Kate la.,Awa est un bon élève,C'est Awa Diop qu'on appelle Kate.,0.617
+71,Sama mak bou djiguène daye toggou agne.,Ma grande sœur prépare le repas.,"Maam, l'homme a préparé le repas.",0.635
+72,Beugouma carote.,Je n'aime pas les carottes.,Carotte de Beaugouma.,0.476
+73,Legui mangui diangue ak Médoune.,Maintenant j'apprends avec Médoune.,"Legeui, Mangue ak Medoune.",0.554
+74,Sama yaye dafa beugue pomme.,Ma mère aimes les pommes.,Mon grand-père a planté beaucoup de pommes.,0.601
+75,Dama taxaw!,Je suis debout!,Je m'arrête !,0.154
+76,Beugouma,Je n'aime pas,Gardiens,0.281
+77,Maa ngi dem,Je m’en vais,Je suis parti.,0.375
+78,Ba beneen yoon inch Allah,A la prochaine si Dieu le veut,Et encore un autre que Dieu a donné.,0.606
+79,Boroom ndékki ku ko jëkka yeewu tëddaat,Celui qui se lève avant le responsable du petit déjeuner peut aller se recoucher,Maître de l'éveil celui qui le préempte se recoucher,0.594
+80,Ganaar du am faru siiru,La poule ne doit pas avoir pour fiancer un chat sauvage,Un oie n'a pas d'yeux au fond du gosier,0.519
+81,Guy dana juri dég,Il arrive qu’un baobab ait des épines,Guy dana jure dég,0.383
+82,Daay fay!,Ca paye!,Désolé!,0.100
+83,Ko yaab iow!,Tu qui on se moques là,Waaw!,0.040
+84,Am ngeu melokane deh!,Ah ouais t'es comme çà toi!,C'est une très bonne idée !,0.311
+85,Dama taxaw!,Je suis debout!,Je me suis arrêté !,0.571
+86,Dama invité sama gel,J'ai invité ma petite copine,J'ai invité mon cousin.,0.636
+87,Yomb na,C’est très bon marché,C'est facile,0.377
+88,Bare na,C’est trop cher,C'est complètement fou,0.617
+89,Ba beneen yoon inch Allah,A la prochaine si Dieu le veut,Ba beneen yoon inch Allah,0.446
+90,Degg nga Français,Parlez-vous Français,Xam nga Français,0.561
+91,Deedeet jërëjëf,Non merci,Baax naa jërëjëf,0.308
+92,Amul solo,De rien,Inutile,0.455
+93,Niokobok,Je vous en prie,L'île de Nioukonjol,0.275
+94,Li lan la,Qu’est-ce que c’est ?,Loolu lan la ?,0.231
+95,Dema fe ñëw wakansu,Je suis ici en vacances,J'attends l'après-midi,0.359
+96,Dema fe ñëw ngir ligey,Je suis ici pour le travail,J'y suis venu pour travailler.,0.642
+97,Demay Xool rek,Je ne fais que regarder,Demaa xool rekk,0.356
+98,Dama bëgga dem,Je voudrais aller,Dama bëgga dem,0.337
+99,Ndax mën naa fi luwe,Je voudrais louer,Can I rent something here?,0.318
+100,Neex na torop,C’était délicieux,C'est merveilleux,0.480
+101,Lo may digël ?,Qu’est-ce que vous me recommandez ?,L'as-tu bien compris?,0.375
+102,Du ma lek yapp,Je suis végétarien,Du ma lekk yàpp,0.192
+103,Bëggu ma kaani,Sans épice (Je n’aime pas les épices),Ne pas avoir d'ennui,0.529
+104,Tang na,C’est trop chaud,C'est tout,0.535
+105,Sama yaram nangu wu ko,Je suis allergique,mon corps ne veut pas,0.280
+106,May ma ndox ma naan,Offrez-moi de l’eau à boire,Dafay bëgg ndox ngir naan,0.318
+107,Dama bëgg giss doktoor,J’ai besoin de voir un médecin,J'en ai assez de voir des docteurs.,0.623
+108,Wootel doctor,Appelez un médecin,Wootel doctoor,0.408
+109,Ana hoppital ?,Où est l’hôpital ?,Ana hopitaal ?,0.397
+110,Dama feebar,Je ne me sens pas très bien,J'ai la grippe.,0.257
+111,Fi moy meeti,J’ai mal ici,Là où je vais.,0.493
+112,Ana wanak wi ?,Où sont les toilettes ?,Et l'Autre ?,0.176
+113,Wollu !,A l’aide !,Où est-il donc passé cet hilaire de maître d’hôtel?,0.400
+114,Dema reer,Je suis perdu(e),Je vais manger.,0.492
+115,sama Dom leuh,c'est mon fils,mon cher Dom,0.550
+116,Yàlla,Dieu,Dieu,1.000
+117,Taax,Bâtiment,Hotel,0.415
+118,Keur,Maison,Là-bas,0.455
+119,Xalaat,Penser,Xalaat,0.200
+120,Mayma ndox,Donne moi de l'eau,Mayma ndox,0.356
+121,Dama feebar,Je suis malade,J'ai mal au ventre.,0.467
+122,Maa ngi dem marse,Je pars au marché,Je suis allé au marché,0.623
+123,Loy def ?,Tu fais quoi ?,Loy def?,0.400
+124,Dama jaxasoo,Je suis confus,J'ai l'impression d'être dans un chaos total.,0.371
+125,Maa ngi ci buro bi,Je suis au bureau,Je suis au bureau,1.000
+126,Dama sedd,J'ai froid,Je suis triste.,0.427
+127,Dama tàng,J'ai chaud,Je suis tout de même chaud.,0.550
+128,Dafa tàng,Il fait chaud,Il fait chaud.,1.000
+129,Dafa sedd,Il fait froid,Il fait froid,1.000
+130,Mu ngi taw,Il pleut,Il pleut.,1.000
+131,Jamonoy taw la!,C'est la saison des pluies!,C'est un cadeau de pluie !,0.692
+132,Ginaaw taw bi klimaa bi dafay neex,Après la pluie vient le beau temps,"Après la pluie, il y a un temps ensoleillé",0.699
+133,Mbeddi Ndakaar yi dañu fees ndax taw bi,Les rues de Dakar sont inondées à cause de la pluie,Les mbedd yu Dakar dañu fees ak ndox ndax taw bi,0.452
+134,Danu wara wut pexe,Nous devons trouver un plan,Danuy war a gis pexe,0.355
+135,Dama beug yengou ci mbay mi, Je veux entreprendre dans l'agriculture,Je préfère l'agriculture,0.467
+136,Warone na dem ci ndadjé bi, Je devais me rendre à cette rencontre,Warona dem ci ndaje bi,0.491
+137,Tay tassé na ak X, Aujourd'hui j'ai croisé X,"Tay, X moo ngi ci kaw",0.495
+138,Diote nga sama yobanté ?, Tu as eu mon message ?,L'histoire me rappelle mon premier jour au lycée !,0.490
